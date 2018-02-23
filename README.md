@@ -1,2 +1,2 @@
 # Google-AMP-for-Wordpress
-## php, amphtml, css, javascript
+## php, javascript, css, amphtml
